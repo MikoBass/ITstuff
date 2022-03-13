@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{1aa2e3c3-7efe-49f1-abd5-af17a9a5c198}</ProjectGuid>
-    <RootNamespace>Algorytm1</RootNamespace>
+    <ProjectGuid>{c87b92bb-a64a-46b7-908e-e8dec3c44990}</ProjectGuid>
+    <RootNamespace>Liczbypierwsze</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -139,7 +139,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Algorytm1.cpp" />
+    <ClCompile Include="Liczby pierwsze.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
