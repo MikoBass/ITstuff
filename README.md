@@ -11,5 +11,5 @@ Opis projektu
 
 Linki do zrealizowanych programów:
 
-1. [Alorytm 1]()
-2. [Alorytm 2]()
+1. [Liczby pierwsze](https://github.com/MikoBass/ITstuff/tree/main/Liczby%20pierwsze)
+2. [Alorytm 2](https://github.com/MikoBass/ITstuff)
