@@ -9,7 +9,7 @@ Opis projektu
 
 ## Opis
 ### Algorytm wyznaczania liczb pierwszych
-![Diagram](/LiczbyPierwsze/Diagram.png)
+![Diagram](/"Liczby pierwsze"/Diagram.png)
 
 Program służy do wyznaczania podanej liczby liczb pierwszych.
 Na samym początku program pyta użytkownika ile liczb pierwszych wypisać, 
