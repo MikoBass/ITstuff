@@ -20,4 +20,4 @@ Program wykonuję akcję aż do końca zadania.
 Linki do zrealizowanych programów:
 
 1. [Liczby pierwsze](https://github.com/MikoBass/ITstuff/tree/main/Liczby%20pierwsze)
-2. [Alorytm 2](https://github.com/MikoBass/ITstuff)
+2. [NWW i NWD](https://github.com/MikoBass/ITstuff/tree/main/NWW_i_NWD)
