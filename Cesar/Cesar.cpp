@@ -17,11 +17,11 @@ void Funkcja(int klucz, char tab[])
 		{
 			if (tab[i] + klucz <= 'z')
 			{
-				tab += klucz;
+				tab[i] += klucz;
 			}
 			else
 			{
-				tab = tab + klucz - 26;
+				tab[i] = tab[i] + klucz - 26;
 			}
 		}
 	}
@@ -31,11 +31,11 @@ void Funkcja(int klucz, char tab[])
 		{
 			if (tab[i] + klucz >= 'a')
 			{
-				tab += klucz;
+				tab[i] += klucz;
 			}
 			else
 			{
-				tab = tab + klucz + 26;
+				tab[i] = tab[i] + klucz + 26;
 			}
 		}
 	}
