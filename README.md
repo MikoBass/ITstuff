@@ -22,3 +22,4 @@ Linki do zrealizowanych programów:
 1. [Liczby pierwsze](https://github.com/MikoBass/ITstuff/tree/main/Liczby%20pierwsze)
 2. [NWW i NWD](https://github.com/MikoBass/ITstuff/tree/main/NWW_i_NWD)
 3. [Szyfr Cezara](https://github.com/MikoBass/ITstuff/tree/main/Cesar)
+3. [Ciąg Fibbonaciego](https://github.com/MikoBass/ITstuff/tree/main/fibbonaci)
