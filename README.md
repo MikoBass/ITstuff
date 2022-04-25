@@ -23,3 +23,4 @@ Linki do zrealizowanych programów:
 2. [NWW i NWD](https://github.com/MikoBass/ITstuff/tree/main/NWW_i_NWD)
 3. [Szyfr Cezara](https://github.com/MikoBass/ITstuff/tree/main/Cesar)
 3. [Ciąg Fibbonaciego](https://github.com/MikoBass/ITstuff/tree/main/fibbonaci)
+4. [Wyszukiwanie binarne](https://github.com/MikoBass/ITstuff/tree/main/binarysearch)
