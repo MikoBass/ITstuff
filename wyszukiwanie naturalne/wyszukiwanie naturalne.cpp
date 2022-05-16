@@ -1,4 +1,6 @@
 ﻿#include <iostream>
+#include <chrono>
+using namespace std::chrono;
 using namespace std;
 int funkcja(int sz, int tab[]);
 int main()
@@ -8,7 +10,12 @@ int main()
 
     cout << "Podaj index'y jakich liczb chcesz poznać" << endl;
     cin >> sz;
+    auto start = high_resolution_clock::now();
     funkcja(sz, tab);
+    auto stop = high_resolution_clock::now();
+    auto duration = duration_cast<microseconds>(stop - start);
+    cout << "\n Ilosc milisekund do wykonania zadania - ";
+    cout << duration.count() << endl;
 
 }
 int funkcja(int sz, int tab[])
